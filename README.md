@@ -18,8 +18,4 @@ Busco desafíos, colaboraciones innovadoras y la oportunidad de aprender en cada
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHernandezGuzman&exclude_repo=github-readme-stats,anuraghazra.github.io" />
   </div>
----
-<div align="center">
 
-<img  src="https://i.giphy.com/media/5k01Xbfhom6zRfgYEN/giphy.webp"  width="150" />
-</div>
