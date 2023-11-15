@@ -11,9 +11,7 @@ Busco desafíos, colaboraciones innovadoras y la oportunidad de aprender en cada
 
 <h5  align="center">¡Construyamos juntos el futuro digital!</h5>
 </div>
-
-
-
+</br>
 <table align='center'>
 <tr>
 <th align='center'>
@@ -26,7 +24,7 @@ Busco desafíos, colaboraciones innovadoras y la oportunidad de aprender en cada
 
 
 <div align='center'>
-<p><small><i>Ex Ignorantia Ad Sapientiam; Ex Luce Ad Tenebras</i></small></p>
+<p><i>Ex Ignorantia Ad Sapientiam; Ex Luce Ad Tenebras</i></p>
 </div>
  
 
