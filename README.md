@@ -1,5 +1,5 @@
 <h3 align="center">
-<img  src="https://i.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp"  width="150" />
+<img  src="https://media4.giphy.com/media/dbtDDSvWErdf2/giphy.gif"  width="250" />
 
 
  Hola 🧟‍♂️, Soy Eduardo</h3>
