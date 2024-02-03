@@ -23,7 +23,8 @@
 
 
 <div align='center'>
-<p><i>Ex Ignorantia Ad Sapientiam; Ex Luce Ad Tenebras</i></p>
+<p><i>
+Ex Exploratio Ad Sapientiam; Ex Creativitate Ad Innovacionem</i></p>
 </div>
  
 
