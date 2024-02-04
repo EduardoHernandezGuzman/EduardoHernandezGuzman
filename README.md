@@ -2,7 +2,7 @@
 <img  src="https://media4.giphy.com/media/dbtDDSvWErdf2/giphy.gif"  width="250" />
 
 
- Hola 🧟‍♂️, Soy Eduardo</h3>
+ Hola 🧛🏻, Soy Eduardo</h3>
 
 
 <div align='center'>
