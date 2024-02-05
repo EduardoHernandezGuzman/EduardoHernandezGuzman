@@ -6,7 +6,7 @@
 
 
 <div align='center'>
-<p  align="center" style="max-width: 330 px">Tinerfeño en Madrid, donde las páginas de los libros y la fotografía son mi refugio. Apasionado devorador de historias y amante de los videojuegos, me aventuro en el fascinante mundo del desarrollo web como estudiante en 4Geeks Academy. En búsqueda constante de desafíos, colaboraciones innovadoras y oportunidades para aprender en cada proyecto.</p>
+<p  align="center" style="max-width: 330 px">Tinerfeño en Madrid, donde las páginas de los libros y la fotografía son mi refugio. Apasionado devorador de historias y amante de los videojuegos. Me sumergí en el fascinante mundo del desarrollo web en 4Geeks Academy, completando mi formación con éxito. Ahora, en constante búsqueda de desafíos, colaboraciones innovadoras y oportunidades para seguir aprendiendo en cada proyecto</p>
 
 <h5  align="center">¡Construyamos juntos el futuro digital!</h5>
 </div>
