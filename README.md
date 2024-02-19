@@ -14,7 +14,7 @@
 <table align='center'>
 <tr>
 <th align='center'>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoHernandezGuzman&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=400" alt="GitHub Streak" />
+<img align="left" src="https://streak-stats.demolab.com?user=EduardoHernandezGuzman&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=400" alt="GitHub Streak" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHernandezGuzman&exclude_repo=github-readme-stats,anuraghazra.github.io" />
 </th>
