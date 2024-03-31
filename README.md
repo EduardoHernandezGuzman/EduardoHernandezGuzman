@@ -2,7 +2,9 @@
 <img  src="https://media4.giphy.com/media/dbtDDSvWErdf2/giphy.gif"  width="220" />
 
 
- Hola 🧛🏻, Soy Eduardo</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&random=false&width=435&lines=Hola%2C+soy+Eduardo" />
+</h1>
 
 
 <div align='center'>
