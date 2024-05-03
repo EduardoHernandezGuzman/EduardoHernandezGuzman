@@ -7,8 +7,11 @@
 </h1>
 
 <p align="center">
-  Tinerfeño en Madrid, donde las páginas de los libros y la fotografía son mi refugio. Apasionado devorador de historias y amante de los videojuegos. Me sumergí en el fascinante mundo del desarrollo web en 4Geeks Academy, completando mi formación con éxito. Ahora, en constante búsqueda de desafíos, colaboraciones innovadoras y oportunidades para seguir aprendiendo en cada proyecto.
+  Tinerfeño en Madrid, donde las páginas de los libros y la fotografía son mi refugio. Apasionado devorador de historias y amante de los videojuegos. Me sumergí en el fascinante mundo del desarrollo web en 4Geeks Academy, completando mi formación con éxito. Ahora, en constante búsqueda de desafíos, colaboraciones innovadoras y oportunidades para seguir aprendiendo en cada proyecto. Además, soy TEACHER ASSISTANT en [4Geeks Academy](https://github.com/4GeeksAcademy) , donde tengo la oportunidad de compartir mi pasión por el desarrollo web con otros estudiantes.
 </p>
+
+
+
 
 <h5 align="center">¡Construyamos juntos el futuro digital!</h5>
 
