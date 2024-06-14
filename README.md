@@ -25,3 +25,5 @@
 </p>
 
 <p align="center"><i>Ex Exploratio Ad Sapientiam; Ex Creativitate Ad Innovacionem</i></p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=EduardoHernandezGuzman&label=Profile%20views&color=0e75b6&style=flat" alt="EduardoHernandezGuzman" /> </p>
