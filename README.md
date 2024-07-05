@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=200&size=17&duration=4000&pause=1000&color=000000&background=58E0FF00&center=true&multiline=true&random=false&width=435&lines=Hola%2C+soy+Eduardo;Bienvenido+a+mi+mundo+de+c%C3%B3digo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=200&size=17&duration=4000&pause=1000&color=000000&background=58E0FF00&center=true&multiline=true&random=false&width=435&lines=Hola%2C+soy+Eduardo;Bienvenid@+a+mi+mundo+de+c%C3%B3digo" />
 </h1>
 
 <p align="center">
