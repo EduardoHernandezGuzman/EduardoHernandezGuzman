@@ -9,7 +9,7 @@
 </br>
 </br>
 
-<div align="center" style="max-width: 600px; margin: 0 auto; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+<div align="center" style="max-width: 200px; margin: 0 auto; padding: 10px; border-radius: 20px; box-shadow: 0 0 20px rgba(0,0,0,0.1);">
   <p>
     Tinerfeño en Madrid, donde las páginas de los libros y la fotografía son mi refugio. <br />
     Apasionado devorador de historias y amante de los videojuegos. <br />
