@@ -14,7 +14,7 @@
   Apasionado devorador de historias y amante de los videojuegos.  
   Me sumergí en el fascinante mundo del desarrollo web en [4Geeks Academy](https://github.com/4GeeksAcademy), completando mi formación con éxito.  
   Ahora, en constante búsqueda de desafíos, colaboraciones innovadoras y oportunidades para seguir aprendiendo en cada proyecto.  
-  Además, soy Teacher Assistant en [4Geeks Academy](https://github.com/4GeeksAcademy), donde tengo la oportunidad de compartir mi pasión por el desarrollo web con otros estudiantes.
+  Actualmente, soy Teacher Assistant en [4Geeks Academy](https://github.com/4GeeksAcademy), donde tengo la oportunidad de compartir mi pasión por el desarrollo web con otros estudiantes.
 
 </div>
 
