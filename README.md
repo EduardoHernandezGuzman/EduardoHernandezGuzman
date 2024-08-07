@@ -29,6 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHernandezGuzman&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Top Languages" />
 </div>
 
+
 <div align="center">
   
   _Ex Exploratio Ad Sapientiam; Ex Creativitate Ad Innovacionem_
