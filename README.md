@@ -12,7 +12,9 @@
 
 
 
-Actualmente resido en Madrid, donde encuentro refugio en los libros y la fotografía. Soy un apasionado de las historias y los videojuegos, disfrutando de la inmersión en mundos narrativos y exploraciones nuevas. Me inicié en el desarrollo web en 4Geeks Academy, donde completé mi formación con éxito. Ahora, como Teacher Assistant en [4Geeks Academy](https://github.com/4GeeksAcademy), disfruto compartiendo mi pasión por el desarrollo web y ayudando a los estudiantes a alcanzar su máximo potencial. Siempre estoy en busca de nuevos desafíos, colaboraciones innovadoras y oportunidades para aprender y crecer en cada proyecto.
+Actualmente resido en Madrid, donde encuentro refugio en los libros y la fotografía. Soy un apasionado de las historias y los videojuegos, disfrutando de la inmersión en mundos narrativos y exploraciones nuevas. Me inicié en el desarrollo web en 4Geeks Academy, donde completé mi formación con éxito. 
+</br>
+Ahora, como Teacher Assistant en [4Geeks Academy](https://github.com/4GeeksAcademy), disfruto compartiendo mi pasión por el desarrollo web y ayudando a los estudiantes a alcanzar su máximo potencial. Siempre estoy en busca de nuevos desafíos, colaboraciones innovadoras y oportunidades para aprender y crecer en cada proyecto.
 
 </div>
 
