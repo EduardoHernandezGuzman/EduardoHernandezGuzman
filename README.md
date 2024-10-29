@@ -20,7 +20,7 @@ Ahora, como Data Engineer, combino tecnología y análisis de datos para crear s
 
 <div align="center">
   
-  ### ¡Construyamos juntos el futuro digital!
+  ### ¡Convirtiendo datos en conocimiento!
   
 </div>
 
