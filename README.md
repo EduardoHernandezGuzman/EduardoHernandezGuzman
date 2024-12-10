@@ -11,7 +11,7 @@
   ## Sobre mí
 
 Resido en Madrid, donde disfruto de los libros, la fotografía y los videojuegos. Me formé en desarrollo web en [4Geeks Academy](https://github.com/4GeeksAcademy), donde también fui Teacher Assistant y Mentor. 
-Ahora, como Data Engineer, combino tecnología y análisis de datos para crear soluciones efectivas. Siempre busco nuevos desafíos y oportunidades de aprendizaje.
+Ahora, como Analytics Engineer, combino tecnología y análisis de datos para crear soluciones efectivas. Siempre busco nuevos desafíos y oportunidades de aprendizaje.
 
 
 
