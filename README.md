@@ -23,12 +23,12 @@ Ahora, como Analytics Engineer, combino tecnología y análisis de datos para cr
   ### ¡Convirtiendo datos en conocimiento!
   
 </div>
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EduardoHernandezGuzman&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=400" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHernandezGuzman&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Top Languages" />
 </div>
-
+-->
 
 <div align="center">
   
