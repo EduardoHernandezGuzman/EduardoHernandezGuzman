@@ -47,6 +47,22 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo regu
 </p>
 
 ---
+## 🤝 ¿Interesado en colaborar?
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pull_Requests-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests Welcome" />
+<img src="https://img.shields.io/badge/Open_Source-♡-white?style=for-the-badge&logo=github&logoColor=black" alt="Open Source Love" />
+</p>
+
+<p align="center">
+¡Siempre estoy interesado en colaborar en proyectos interesantes! Si tienes alguna idea o quieres mejorar alguno de mis repositorios:
+
+- 🔄 Haz fork de cualquier repositorio
+- ⭐ Añade tus cambios
+- 📤 Abre un Pull Request
+</p>
+
+---
 
 ## 🌐 Conecta conmigo
 
@@ -61,7 +77,8 @@ Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en cont
 ---
 
 <div align="center">
-<em>Ex Exploratio Ad Sapientiam; Ex Creativitate Ad Innovacionem</em>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" style="height: 35px;"/>
+<img src="https://img.shields.io/badge/Powered_by-R'lyeh-darkpurple?style=for-the-badge" style="height: 35px;"/>
 </div>
 
 <div align="right">
