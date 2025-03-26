@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+##  Sobre mí
 
 Soy **Analytics Engineer** residente en Madrid, apasionado por la tecnología, los datos y el aprendizaje continuo. Me formé como desarrollador web en [4Geeks Academy](https://github.com/4GeeksAcademy), donde también tuve la oportunidad de ser **Teacher Assistant** y **Mentor**.
 
@@ -20,7 +20,7 @@ En mi día a día, combino habilidades técnicas y analíticas para transformar 
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 Aquí tienes algunas de las tecnologías y herramientas con las que trabajo regularmente:
 
@@ -39,7 +39,7 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo regu
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EduardoHernandezGuzman&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
@@ -47,7 +47,7 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo regu
 </p>
 
 ---
-## 🤝 ¿Interesado en colaborar?
+##  ¿Interesado en colaborar?
 
 <p align="center">
 <img src="https://img.shields.io/badge/Pull_Requests-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests Welcome" />
@@ -64,7 +64,7 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo regu
 
 ---
 
-## 🌐 Conecta conmigo
+##  Conecta conmigo
 
 Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme:
 
