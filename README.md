@@ -49,6 +49,7 @@ Docker · Git · Linux · Bash · VS Code
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoHernandezGuzman&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHernandezGuzman&layout=compact&theme=default&hide_border=true&langs_count=6" />
 </p>
+<img src="https://camo.githubusercontent.com/30a6a9d437361fe45127ce555f0fc1cbca0220e953299f0aebf8b2816afd38ea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4564756172646f4865726e616e64657a47757a6d616e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Profile views" data-canonical-src="https://komarev.com/ghpvc/?username=EduardoHernandezGuzman&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
 ---
 
@@ -71,4 +72,6 @@ Si tienes una idea o deseas mejorar alguno de mis repositorios:
 ---
 
 *Siempre abierto a nuevas oportunidades y desafíos*  
+
+
 
