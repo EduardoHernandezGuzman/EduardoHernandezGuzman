@@ -6,7 +6,7 @@
 
 ```
 ┌─────────────────────────────────────────────┐
-│ 📊 Data → Decisiones                       │
+│ 📊 Data → Decisiones                        │
 │ 🧠 Analítica • Tracking • Experimentación   │
 │ 📍 Madrid                                   │
 └─────────────────────────────────────────────┘
